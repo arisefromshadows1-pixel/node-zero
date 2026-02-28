@@ -12,3 +12,4 @@ Nothing was accidental.
 If you're looking for answers, check everything.
 
 Version control rarely forgets..
+What was written once is never truly erased.
